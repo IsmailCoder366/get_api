@@ -1,16 +1,13 @@
-# get_api
+# Flutter GET API Project
 
-A new Flutter project.
+This is a simple Flutter application that fetches and displays a list of photos from a REST API (`https://jsonplaceholder.typicode.com/photos`) using an HTTP GET request. The app shows the photos with thumbnails, titles, and URLs in a clean ListView.
 
-## Getting Started
+## 🚀 Features
+- Fetching API data using the `http` package
+- Parsing JSON data
+- Displaying results using `FutureBuilder`
+- Image thumbnails using `CircleAvatar`
+- Error handling and loading indicators
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Muhammad Ismail
